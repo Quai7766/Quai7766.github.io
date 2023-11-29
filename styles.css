@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  color: white;
 }
 .title {
   margin-left:200px;
@@ -14,4 +15,18 @@ body {
 .unique {
   color: red;
   font-weight: 900;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+.nav-item {
+  padding: 20px;
+}
+.nav-item a{
+  text-decoration: none;
+  color: white;
+}
+.nav-item a:hover{
+  color: blue;
 }
