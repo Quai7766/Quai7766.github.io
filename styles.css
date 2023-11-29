@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+.title {
+  margin-left:200px;
+  margin-top: 70px;
+  text-align: center;
+  color: white;
+}
+.item-title {
+  font-size: 80px;
+  font-weight: 500;
+}
+.unique {
+  color: red;
+  font-weight: 900;
+}
